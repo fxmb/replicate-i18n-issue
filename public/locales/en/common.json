@@ -1,0 +1,43 @@
+{
+  "shipping": {
+    "title": "Shipping",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "zip": "Zip",
+    "country": "Country",
+    "phone": "Phone",
+    "email": "Email",
+    "confirmButton": "Confirm Shipping"
+  },
+  "billing": {
+    "title": "Billing",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "zip": "Zip",
+    "country": "Country",
+    "phone": "Phone",
+    "email": "Email",
+    "confirmButton": "Confirm Billing"
+  },
+  "payment": {
+    "title": "Payment",
+    "cardNumber": "Card Number",
+    "expirationDate": "Expiration Date",
+    "securityCode": "Security Code",
+    "confirmButton": "Confirm Payment"
+  },
+  "confirmation": {
+    "title": "Confirmation",
+    "confirmButton": "Confirm Order"
+  },
+  "delivery": {
+    "title": "Delivery",
+    "confirmButton": "Confirm Delivery"
+  }
+}

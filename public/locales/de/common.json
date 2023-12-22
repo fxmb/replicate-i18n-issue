@@ -1,0 +1,44 @@
+{
+  "test": 123,
+  "shipping": {
+    "title": "Versand",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "address": "Adresse",
+    "city": "Stadt",
+    "state": "Bundesland",
+    "zip": "Postleitzahl",
+    "country": "Land",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "confirmButton": "Versand bestätigen"
+  },
+  "billing": {
+    "title": "Rechnungsstellung",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "address": "Adresse",
+    "city": "Stadt",
+    "state": "Bundesland",
+    "zip": "Postleitzahl",
+    "country": "Land",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "confirmButton": "Rechnung bestätigen"
+  },
+  "payment": {
+    "title": "Zahlung",
+    "cardNumber": "Kartennummer",
+    "expirationDate": "Ablaufdatum",
+    "securityCode": "Sicherheitscode",
+    "confirmButton": "Zahlung bestätigen"
+  },
+  "confirmation": {
+    "title": "Bestätigung",
+    "confirmButton": "Bestellung bestätigen"
+  },
+  "delivery": {
+    "title": "Lieferung",
+    "confirmButton": "Lieferung bestätigen"
+  }
+}
